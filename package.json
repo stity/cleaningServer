@@ -1,0 +1,18 @@
+{
+  "name": "firebase-cleaning-server",
+  "version": "1.0.0",
+  "description": "Clear firebase database, to be run once in a while to collect garbage",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Valentin Demeusy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "firebase": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-prompt": "^0.2.0",
+    "gulp-simplecrypt": "0.0.1"
+  }
+}

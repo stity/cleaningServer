@@ -1,0 +1,4 @@
+credentials.json
+password.json
+!encrypted/credentials.json
+node_modules/
